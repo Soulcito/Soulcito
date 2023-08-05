@@ -20,5 +20,5 @@
   
 
 
-#### If you know how Github stats works?, [link](https://github.com/anuraghazra/github-readme-stats)
+#### Do you know how Github stats works?, [link](https://github.com/anuraghazra/github-readme-stats)
 
