@@ -12,7 +12,7 @@
   </p>
 
 - 🔭 I’m currently working on ... China Construction Bank in Chile
-- 🌱 I’m currently learning ... Flutter, AirFlow 
+- 🌱 I’m currently learning ... Next JS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [linkedin] (https://www.linkedin.com/in/felipehinojosafernandez/)
 - 😄 Pronouns: ... He/Him
